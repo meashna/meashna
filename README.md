@@ -1,19 +1,24 @@
 # Ashna T
 [![React Web Developer](https://img.shields.io/badge/Web%20Developer-React-%2361DAFB?logo=react)](https://github.com/meashna)
 
+[![Application Developer](https://img.shields.io/badge/Web%20Developer-Flutter%20&%20Node.js-bluegreen?logo=flutter&logoColor=white)](https://github.com/meashna)
+
 ![Web Developer Banner](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?w=740&t=st=1706935869~exp=1706936469~hmac=18b5c86e9c1d51d7fccab2e3ede7785ddc28690c2fb754c0b3ea29b1c2bab082)
+
+
+
 
 ## 👩‍💻 About Me
 
-Hi there, I'm Ashna T, your friendly neighborhood web developer with an insatiable passion for all things web! 👋 I'm currently a B-Tech CSE student, constantly honing my skills and embracing new technologies. From crafting seamless user experiences to whipping up custom webs, I thrive on innovation and creativity.
+Hi there, I'm Ashna T, your friendly neighborhood developer with an insatiable passion for all things web and apps! 👋 I'm currently a B-Tech CSE student, constantly honing my skills and embracing new technologies. From crafting seamless user experiences to whipping up custom webs, I thrive on innovation and creativity.
 
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 - **JavaScript:** 80%
-- **React:** Currently exploring! 🌐
+- **React:** 60%! 🌐
+- **Flutter:** 60%
+- **Node:** Currently exploring! 🌐
 
 ## 🌈 Let's Get Jiggy With It!
 

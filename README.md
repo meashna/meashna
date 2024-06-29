@@ -1,12 +1,9 @@
 # Ashna T
 [![React Web Developer](https://img.shields.io/badge/Web%20Developer-React-%2361DAFB?logo=react)](https://github.com/meashna)
 
-[![Application Developer](https://img.shields.io/badge/Web%20Developer-Flutter%20&%20Node.js-bluegreen?logo=flutter&logoColor=white)](https://github.com/meashna)
+[![Application Developer](https://img.shields.io/badge/Application%20Developer-Flutter%20&%20Node.js-bluegreen?logo=flutter&logoColor=white)](https://github.com/meashna)
 
 ![Web Developer Banner](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?w=740&t=st=1706935869~exp=1706936469~hmac=18b5c86e9c1d51d7fccab2e3ede7785ddc28690c2fb754c0b3ea29b1c2bab082)
-
-
-
 
 ## 👩‍💻 About Me
 

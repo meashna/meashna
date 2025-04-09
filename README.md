@@ -1,37 +1,65 @@
-# Ashna T
-[![React Web Developer](https://img.shields.io/badge/Web%20Developer-React-%2361DAFB?logo=react)](https://github.com/meashna)
+# 👩‍💻 Ashna T
 
-[![Application Developer](https://img.shields.io/badge/Application%20Developer-Flutter%20&%20Node.js-bluegreen?logo=flutter&logoColor=white)](https://github.com/meashna)
+[![React Developer](https://img.shields.io/badge/Web%20Developer-React-%2361DAFB?logo=react)](https://github.com/meashna)
+[![Flutter & Node.js](https://img.shields.io/badge/App%20Developer-Flutter%20%26%20Node.js-45d1ff?logo=flutter)](https://github.com/meashna)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Gold%20Badge-green?logo=hackerrank)](https://www.hackerrank.com/profile/ashnarys1320)
 
-![Web Developer Banner](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?w=740&t=st=1706935869~exp=1706936469~hmac=18b5c86e9c1d51d7fccab2e3ede7785ddc28690c2fb754c0b3ea29b1c2bab082)
+## 💡 About Me
 
-## 👩‍💻 About Me
+Hi, I'm **Ashna T** — a passionate software developer, tech mentor, and Computer Science undergrad from Kerala 🇮🇳  
+I specialize in **MERN Stack, Flutter, and AI**, with 1+ years of experience building full-stack apps, solving problems, and mentoring developers.
 
-Hi there, I'm Ashna T, your friendly neighborhood developer with an insatiable passion for all things web and apps! 👋 I'm currently a B-Tech CSE student, constantly honing my skills and embracing new technologies. From crafting seamless user experiences to whipping up custom webs, I thrive on innovation and creativity.
-
+- 🔭 Currently working at **Curate Health Technologies**
+- 🧠 Love building projects that matter: health, productivity, and AI
+- 🗣️ Mentor for 100+ students, speaker at hackathons and tech workshops
 
 ## 🛠️ Tech Stack
 
-- **JavaScript:** 80%
-- **React:** 60%! 🌐
-- **Flutter:** 60%
-- **Node:** Currently exploring! 🌐
+**Languages**: JavaScript, Dart, Python, C++  
+**Frontend**: React.js, Flutter, HTML5, CSS3, Bootstrap  
+**Backend**: Node.js, Express.js, REST APIs  
+**Database**: MongoDB, MySQL, Sequelize ORM  
+**DevOps & Tools**: Jenkins, AWS, Git, CI/CD, Postman  
+**Testing**: Jest, GitHub Actions  
+**Soft Skills**: Communication, Problem Solving, Mentoring, Team Leadership
 
-## 🌈 Let's Get Jiggy With It!
+## 🚀 Highlight Projects
 
-Whether you're a fellow developer, a tech enthusiast, or someone looking to collaborate, I'm ready to make some magic happen! Let's connect and build something amazing together. ✨
+- 🔬 [**Epipredict**](https://github.com/meashna/epipredict_api): ML-based pandemic predictor using Flutter + FastAPI + Node.js  
+- ✍️ [**Artificium**](https://github.com/meashna/artificium): AI-powered text generation with React + Gemini AI  
+- 📚 [**Share**](https://github.com/meashna/Mini_Project): MERN stack book rental platform with full CRUD  
+- ✅ [**To-Do Manager**](https://todo-hatio-react.vercel.app): Organize tasks & export summaries to GitHub Gists
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-[![Ashna T's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meashna&show_icons=true&icon=react&theme=radical)](https://github.com/meashna)
+![Ashna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meashna&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meashna&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=meashna&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=meashna&theme=radical&row=1&margin-w=20)
 
+## 🧠 Problem Solving & Certifications
 
-## 📬 Contact Me
+- 🥇 [**HackerRank**](https://www.hackerrank.com/profile/ashnarys1320) – Gold Badge in Problem Solving  
+- ✅ Meta Front-End Developer Certificate  
+- ✅ Microsoft Azure AI Certificate  
+- 🎓 Mentor for Web Dev, UI/UX, Figma, and MERN stack  
+- 🧪 Contributed to AI, health-tech, and ed-tech domains
 
-Feel free to reach out for collaborations, discussions, or just to say hi!
+## 🌱 Current Goals
 
-- 📧 Email: [ashnarys1320@gmail.com](mailto:ashnarys1320@gmail.com)
-- 🐦 Twitter: [@ft_ashna](https://x.com/ft_ashna)
-- 💼 LinkedIn: [linkedin.com/in/ashnat](https://www.linkedin.com/in/ashnat)
+- Learn Next.js & GraphQL  
+- Deep dive into AI + LLM integration  
+- Collaborate on open-source tools for social impact
 
-Thanks for stopping by! 🌟
+## 📬 Connect With Me
+
+- 📧 [ashnarys1320@gmail.com](mailto:ashnarys1320@gmail.com)  
+- 🌐 [ashnat.netlify.app](https://ashnat.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashnat)  
+- 🐦 [Twitter](https://x.com/ft_ashna)  
+- 🧑‍💻 [GitHub](https://github.com/meashna)
+
+---
+
+> *“Code like a girl, lead like a boss. Let your GitHub speak before your resume.”*
+
